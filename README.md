@@ -2,4 +2,6 @@
 
 
 ### instal
-```bat npx degit aminelahmary/vue3-tailwind4 your-project-name ```
+```bat 
+npx degit aminelahmary/vue3-tailwind4 your-project-name 
+```
